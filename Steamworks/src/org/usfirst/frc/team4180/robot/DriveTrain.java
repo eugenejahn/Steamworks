@@ -27,7 +27,7 @@ public class DriveTrain {
 	}
 
 	public void toggleBackwards() {
-		backwards = !backwards; // change the boolean when the button is pressed in Robot.java
+		backwards = !backwards; // change the boolean when the button is pressed in Robot.java.
 	}
 	
 	public boolean getBackwards() { //Output the data (true or false) Eventaully this will be called, to show to the drivers.
